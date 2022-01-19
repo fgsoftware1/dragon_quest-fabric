@@ -1,3 +1,6 @@
 [submodule "dragon_quest-forge"]
 	path = dragon_quest-forge
 	url = https://github.com/fgsoftware1/dragon_quest-forge.git
+[submodule "dragon_quest-fabric"]
+	path = dragon_quest-fabric
+	url = https://github.com/fgsoftware1/dragon_quest-fabric
